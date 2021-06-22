@@ -1,5 +1,5 @@
 <p align="center"><img width=60% src="https://i.imgur.com/ZdcxVrn.png"></p>
-<p align="center" style="font-weight:bold;font-size:26px;">Reference Applications</p>
+<p align="center"><font size="6">Reference Applications</font></p>
 
 ### Table of Contents
 * [Starter Apps](#starter-apps) 
